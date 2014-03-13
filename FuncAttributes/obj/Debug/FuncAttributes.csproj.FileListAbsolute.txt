@@ -1,0 +1,5 @@
+C:\Repositories\FunkyAttributes\FuncAttributes\bin\Debug\FuncAttributes.exe.config
+C:\Repositories\FunkyAttributes\FuncAttributes\bin\Debug\FuncAttributes.exe
+C:\Repositories\FunkyAttributes\FuncAttributes\bin\Debug\FuncAttributes.pdb
+C:\Repositories\FunkyAttributes\FuncAttributes\obj\Debug\FuncAttributes.exe
+C:\Repositories\FunkyAttributes\FuncAttributes\obj\Debug\FuncAttributes.pdb
